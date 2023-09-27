@@ -1,0 +1,29 @@
+#season {
+    color: white;
+    font-family: 'WebFont', 'burbank_big_condensedblack', sans-serif;
+}
+
+#tagline {
+    color: white;
+    font-family: 'WebFont', 'burbank_big_condensedblack', sans-serif;
+}
+
+#writeup {
+    color: white;
+}
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'burbank_big_condensedblack';
+    src: url('./font/fortnite-webfont.woff2') format('woff2'),
+         url('./font/fortnite-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
