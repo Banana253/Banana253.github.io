@@ -1,15 +1,40 @@
 #season {
     color: white;
     font-family: 'WebFont', 'burbank_big_condensedblack', sans-serif;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 #tagline {
     color: white;
     font-family: 'WebFont', 'burbank_big_condensedblack', sans-serif;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 #writeup {
     color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#paragraph {
+    color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+iframe {
+    width: 80%;
+    height: 315px; /* If you can think of a better way to make it bigger on a bigger screen then please do it */
+}
+
+
+#ch1s1 {
+    background-image: url(./images/locker.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 
@@ -22,7 +47,7 @@
 @font-face {
     font-family: 'burbank_big_condensedblack';
     src: url('./font/fortnite-webfont.woff2') format('woff2'),
-         url('./font/fortnite-webfont.woff') format('woff');
+        url('./font/fortnite-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
