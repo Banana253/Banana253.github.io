@@ -51,6 +51,14 @@ iframe {
     /* If you can think of a better way to make it bigger on a bigger screen then please do it */
 }
 
+#pageimage {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #intro {
     background-image: url(./images/locker.png);
     background-repeat: no-repeat;
