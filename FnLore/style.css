@@ -5,7 +5,6 @@ body {
     background-size: cover;
 }
 
-
 #season {
     color: white;
     font-family: 'WebFont', 'burbank_big_condensedblack', sans-serif;
@@ -29,11 +28,21 @@ body {
     text-align: center;
 }
 
-#paragraph {
+#source {
     color: white;
     margin-left: 8%;
     margin-right: 8%;
     text-align: center;
+    font-style: italic;
+}
+
+#disclaimer {
+    color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 iframe {
@@ -41,7 +50,6 @@ iframe {
     height: 315px;
     /* If you can think of a better way to make it bigger on a bigger screen then please do it */
 }
-
 
 #intro {
     background-image: url(./images/locker.png);
@@ -57,8 +65,30 @@ iframe {
     background-size: cover;
 }
 
+#ch1s2 {
+    background-image: url(./images/locker.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#ch1s3 {
+    background-image: url(./images/locker.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 #bottom {
     background-color: rgb(55, 55, 55);
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: purple;
 }
 
 
