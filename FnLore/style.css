@@ -36,6 +36,13 @@ body {
     font-style: italic;
 }
 
+#change {
+    color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+}
+
 #disclaimer {
     color: white;
     margin-left: 8%;
