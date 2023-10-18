@@ -94,6 +94,13 @@ iframe {
     background-size: cover;
 }
 
+#ch1s4 {
+    background-image: url(./images/locker.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 #bottom {
     background-color: rgb(55, 55, 55);
 }
