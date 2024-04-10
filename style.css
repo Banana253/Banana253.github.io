@@ -1,0 +1,5 @@
+/*CSS from: https://stackoverflow.com/a/28393029*/
+iframe {
+    max-width: 90vw;
+    max-height: 56.25vw; /* height/width ratio = 315/560 = .5625 */
+}
